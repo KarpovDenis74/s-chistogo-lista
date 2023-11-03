@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     margin-bottom: auto;
     color: #fff;
 }
-.header__logo-image{
+.header__logo-image {
     color: #fff;
 }
 .header__menu {
@@ -56,11 +56,10 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .header__menu-link {
     color: currentColor;
     text-decoration: underline;
-
 }
-.main {
+/* .main {
 
-}
+} */
 section {
     box-sizing: border-box;
     width: 360px;
@@ -69,14 +68,10 @@ section {
 .content-section {  
     box-sizing: border-box;  
 }
-
-
 .cover {
-
     height: 220px;
     background-image: url("../images/cover.svg");
     background-repeat: no-repeat;
-
     background-size: 95% cover;
     background-position: 0px 10px;
     margin-bottom: 30px;
@@ -89,24 +84,20 @@ section {
     font-family: 'EB Garamond';
     font-size: 74px;
     line-height: 70px;
-
 }
 .accent-span {
     display: block;
     text-align: left;
-
 }
 .text-center {
     display: block;
     text-align: center;
     padding: auto;
-
 }
 .text-right {
     display: block;
     text-align: right;
     padding-right: 24px;
- 
 }
 .intro {
     padding-left: 20px;
@@ -123,23 +114,18 @@ section {
 .intro__title {
     display: flex;
     width: 203px;
-
 }
 .intro__date {
     display: flex;
     margin-left: auto;
-
-
 }
 .intro__main-text {
     margin-bottom: 24px;
     white-space: normal;
 }
+/* .reasons {
 
-
-.reasons {
-
-}
+} */
 .content-section__subtitle {
     padding-top: 40px;
     padding-left: 20px;
@@ -147,24 +133,20 @@ section {
     font-family: 'EB Garamond';
     font-size: 28px;
     display: block;
-
 }
-
 .content-section__introduction {
     font-size: 20px;
     line-height: 27px;
     padding: 20px;
 }
-
 .content-section__list-accent {
     font-size: 16px;
     font-weight: regular;  
     font-weight: bold;
 }
-.content-section__list {
+/* .content-section__list {
 
-
-}
+} */
 .content-section__list-item {
     line-height: 22px;
     padding: 0 20px 16px 20px;
@@ -175,7 +157,6 @@ section {
 .card-list {
     padding: 10px 20px;
     margin-bottom: 20px;;
-
 }
 .card {
     padding: 0 ;
@@ -183,7 +164,6 @@ section {
     font-size: 16px;
     list-style: none;
     margin-bottom: 20px;
-
 }
 .card_theme_dark {
     background-color:#343434;
@@ -194,9 +174,9 @@ section {
     background-color:#fee42a;
     color: #131313;
 }
-.card_text-only {
+/* .card_text-only {
 
-}
+} */
 .card__author {
     padding-top: 20px;
 }
@@ -216,7 +196,6 @@ section {
 .card__text {
     font-size:  16px;
     line-height: 22px;
-
 }
 .footer {
     font-size: 16px;
@@ -233,10 +212,8 @@ section {
 
 }
 .footer__links {
-
     display: flex;
     margin-left: auto;
- 
 }
 .footer__links a {
     color: currentColor;
