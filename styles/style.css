@@ -65,8 +65,8 @@ section {
     width: 360px;
     justify-content: center;
 }
-.content-section {  
-    box-sizing: border-box;  
+.content-section {
+    box-sizing: border-box;
 }
 .cover {
     height: 220px;
@@ -141,7 +141,6 @@ section {
 }
 .content-section__list-accent {
     font-size: 16px;
-    font-weight: regular;  
     font-weight: bold;
 }
 /* .content-section__list {
@@ -151,9 +150,9 @@ section {
     line-height: 22px;
     padding: 0 20px 16px 20px;
 }
-.how-to {
+/* .how-to {
 
-}
+} */
 .card-list {
     padding: 10px 20px;
     margin-bottom: 20px;;
@@ -184,9 +183,9 @@ section {
     width: 100px;
     padding-left: 20px;
 }
-.card__content {
+/* .card__content {
 
-}
+} */
 .card__title {
     font-size: 22px;
 }
